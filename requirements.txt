@@ -1,0 +1,9 @@
+# Core automation
+playwright==1.42.0
+selenium==4.17.2
+
+# Config & data handling
+pyyaml==6.0.1
+
+# Optional (CSV handling / future scaling)
+pandas==2.2.0
